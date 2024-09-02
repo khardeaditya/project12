@@ -10,7 +10,7 @@ function About() {
       <Nav />
       <h2 className='title'>Abut Page</h2>
       <img src={AboutImg}  className='imgs'/>
-      <button type='button' onClick={    ()=>{
+      <button className='btn' type='button' onClick={    ()=>{
         toast.loading("Loading....")
       }
      }>
