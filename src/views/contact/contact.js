@@ -11,7 +11,12 @@ function Contact() {
 
      <h2 className='title'>Contact</h2>
      <img src={Cont} className='imgs'/>
-  
+     <button type='button' onClick={    ()=>{
+        toast.success("msg you want…")
+      }
+     }>
+      Hello
+     </button>
 
      <Foot />
 <Toaster/>
