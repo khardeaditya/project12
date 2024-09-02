@@ -1,0 +1,33 @@
+
+
+.Nav-link{
+color: rgb(0, 0, 0);
+background-color: bisque;
+text-decoration: none;
+
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 20px;
+    font-style: italic;
+    margin-right: 100px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(72, 59, 41);
+    margin: 10px;
+    padding: 5px;
+    
+}
+.title{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: orange;
+    border-radius: 30px;
+}
