@@ -9,3 +9,11 @@ body{
   object-fit: cover;
   margin-left: 600px;
 }
+.btn{
+  background-color: rgb(215, 196, 167);
+  margin: 10px 800px;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
